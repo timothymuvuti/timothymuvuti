@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timothymuvuti
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript / React
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Full-Stack Web Development
 - 📫 How to reach me WA/+26776424101
 
